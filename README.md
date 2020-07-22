@@ -1,5 +1,4 @@
-<br>
-  <h1 align="center"> Lucas Wottrich	</h1>
+# Lucas Wottrich
 <p align="center"> 
   <a href="https://github.com/Wottrich"> 
     <img src="https://img.shields.io/badge/-Github-black?style=flat&logo=Github&logoColor=white&link=https://github.com/felipersdf" alt="Github badge" />
