@@ -1,6 +1,6 @@
 # Lucas Wottrich - Mobile Developer Engineer (Android/iOS)
+#### Welcome ladies and gentlemen! 
 #### Hi, I'm Lucas and I have 20 years old.
-Welcome ladies and gentlemen! 
 
 Here you will find projects to learn how to improve your skills in mobile developments.
 
