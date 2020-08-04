@@ -1,7 +1,7 @@
 # Lucas Wottrich - Mobile Developer Engineer
 #### Welcome ladies and gentlemen! 
 
-Here you will find projects to learn how to improve your skills in mobile developments.
+I am passionate about mobile development and in this profile I have some things that I study, work and improve in day-to-day basis seeking to use the most cutting edge technologies and  offering the best experience to the user.
 
 ![Android](https://img.shields.io/badge/Android-green.svg?logo=Android&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-blue.svg?logo=Apple&logoColor=white)
