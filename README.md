@@ -1,4 +1,4 @@
-# Lucas Wottrich - Mobile Developer Engineer (Android/iOS)
+# Lucas Wottrich - Mobile Developer Engineer
 #### Welcome ladies and gentlemen! 
 
 Here you will find projects to learn how to improve your skills in mobile developments.
