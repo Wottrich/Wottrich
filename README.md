@@ -20,7 +20,7 @@ I am passionate about mobile development and in this profile I have some things 
 
 
 
-<details><summary><b>Other informations</b></summary>
+<details><summary><b>Other information</b></summary>
   
   
   - [Gists](https://gist.github.com/Wottrich)
