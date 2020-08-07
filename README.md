@@ -12,7 +12,11 @@ I am passionate about mobile development and in this profile I have some things 
 
 ![](https://github-readme-stats.vercel.app/api?username=wottrich&show_icons=true&hide=contribs&theme=dark)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=wottrich&layout=compact&hide=ruby&theme=dark)
+<details><summary><b>Most used Languages</b></summary>
+  
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=wottrich&layout=compact&hide=ruby&theme=dark)
+  
+</details>
 
 **Contact**
 
