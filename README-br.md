@@ -8,7 +8,7 @@ Eu sou apaixonado por desenvolvimento mobile e nesse perfil tem algumas coisas q
 
 ![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)
 
-**📊 Status sobre mim
+**📊 Dados sobre mim
 
 ![](https://github-readme-stats.vercel.app/api?username=wottrich&show_icons=true&hide=contribs&theme=dark)
 
