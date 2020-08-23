@@ -3,6 +3,8 @@
 
 I am passionate about mobile development and in this profile I have some things that I study, work and improve in day-to-day basis seeking to use the most cutting edge technologies and  offering the best experience to the user.
 
+[🇧🇷 pt-br overview 🇧🇷](https://github.com/Wottrich/Wottrich/blob/master/README-br.md)
+
 ![Android](https://img.shields.io/badge/Android-green.svg?logo=Android&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-blue.svg?logo=Apple&logoColor=white)
 
