@@ -1,7 +1,7 @@
 # ⚡️ Lucas Wottrich - Desenvolvedor Mobile ⚡️
 #### Sejam bem-vindos senhoras e senhores! 
 
-Eu sou apaixonado por desenvolvimento mobile e nesse perfil tem algumas coisas que eu estudo, trabalho e molhoro no dia-a-dia. Estou sempre buscando usar as tecnologias de ponto no mercado e oferecer uma melhor experiência para o usuário.
+Eu sou apaixonado por desenvolvimento mobile e nesse perfil tem algumas coisas que eu estudo, trabalho e molhoro no dia-a-dia. Estou sempre buscando usar as tecnologias de ponta no mercado e oferecer uma melhor experiência para o usuário.
 
 ![Android](https://img.shields.io/badge/Android-green.svg?logo=Android&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-blue.svg?logo=Apple&logoColor=white)
