@@ -1,5 +1,5 @@
 # ⚡️ Lucas Wottrich - Desenvolvedor Mobile ⚡️
-#### Sejam bem-vindos senhoras e senhores! 
+### Sejam bem-vindos senhoras e senhores! 
 
 Eu sou apaixonado por desenvolvimento mobile e nesse perfil tem algumas coisas que eu estudo, trabalho e molhoro no dia-a-dia. Estou sempre buscando usar as tecnologias de ponta no mercado e oferecer uma melhor experiência para o usuário.
 
@@ -8,7 +8,7 @@ Eu sou apaixonado por desenvolvimento mobile e nesse perfil tem algumas coisas q
 
 ![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)
 
-**📊 Dados sobre mim**
+### **📊 Dados sobre mim**
 
 ![](https://github-readme-stats.vercel.app/api?username=wottrich&show_icons=true&hide=contribs&theme=dark)
 
@@ -29,7 +29,14 @@ Eu sou apaixonado por desenvolvimento mobile e nesse perfil tem algumas coisas q
   
 </details>
 
-**Contato**
+### **📖 Meus artigos**
+[Página do Medium](https://wottrich.medium.com/)
+
+**Artigos em português:**
+- [Jetpack Compose: Stateless X Stateful](https://wottrich.medium.com/jetpack-compose-stateless-x-stateful-16d7556a7c98)
+- [Retrofit + coroutines.Flow](https://wottrich.medium.com/retrofit-coroutines-flow-7b4d0e52c8cc)
+
+### **Contato**
 
 ![Github](https://img.shields.io/badge/-Github-black?style=flat&logo=Github&logoColor=white)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-c-wottrich/)
