@@ -39,7 +39,7 @@ Eu sou apaixonado por desenvolvimento mobile e nesse perfil tem algumas coisas q
 - [Jetpack Compose: Stateless X Stateful](https://wottrich.medium.com/jetpack-compose-stateless-x-stateful-16d7556a7c98)
 - [Retrofit + coroutines.Flow ](https://wottrich.medium.com/retrofit-coroutines-flow-7b4d0e52c8cc)
 
-### **Meus projects open source**
+### **Meus projetos open source**
 
 Sinta-se livre para contribuir <3
 
