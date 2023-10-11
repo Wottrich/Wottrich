@@ -1,5 +1,5 @@
 # ⚡️ Lucas Wottrich - Mobile Developer Engineer ⚡️
-### Welcome ladies and gentlemen! 
+### Welcome everyone! 
 
 I am passionate about mobile development and in this profile I have some things that I study, work and improve in day-to-day basis seeking to use the most cutting edge technologies and  offering the best experience to the user.
 
